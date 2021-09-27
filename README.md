@@ -1,2 +1,1 @@
-# Sandbox
-This is a repo for testing 
+Sandbox is a repo for testing 
